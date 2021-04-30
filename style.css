@@ -1,0 +1,33 @@
+.center {
+    padding: 50px 100px 50px 100px;
+    border:lightslategray 10px solid;
+}
+
+.titulo{
+    color: rgb(175, 105, 105);
+    margin-top: 30px;
+    border-bottom: 2px solid lightslategray;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+label {
+    color: rosybrown;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.resultCEP {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    margin: 0px 10px 0px 10px ;
+    padding: 0px 60px 0px 60px;
+    
+}
+
+.resultCEP label {
+    margin-top: 0px;
+}
+
+
